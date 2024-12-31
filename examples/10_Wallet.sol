@@ -1,4 +1,4 @@
-pragma ton-solidity >= 0.35.0;
+jjvvbpragma ton-solidity >= 0.35.0;
 pragma AbiHeader expire;
 
 /// @title Simple wallet
